@@ -1,1 +1,2 @@
 # index.new js
+hsh
